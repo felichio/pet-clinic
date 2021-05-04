@@ -1,2 +1,2 @@
 # pet-clinic
-Pet Clinic app
+Pet Clinic app (spring boot testing)
