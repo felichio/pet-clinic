@@ -1,2 +1,5 @@
-package dev.rxvchicken.petclinic.model;public class Owner {
+package dev.rxvchicken.petclinic.model;
+
+public class Owner extends Person {
+
 }
